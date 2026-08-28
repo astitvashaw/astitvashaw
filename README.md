@@ -1,5 +1,5 @@
 ## Hi there 👋
-- Currently learning Rust and Kotlin
+- I know Kotlin, Java, C and C++
 - Experienced with Java
 - Currently working on mobile app development
 
