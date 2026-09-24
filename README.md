@@ -1,7 +1,6 @@
 ## Hi there 👋
-- I know Kotlin, Java, C and C++
+- I know Kotlin, Java, C
 - Experienced with Java
-- Currently working on mobile app development
 
 <!--
 **astitvashaw/astitvashaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
